@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="gi (2).png" width="100%" height=100% />
+  <img src="gi (2).png" width="100%" height=10% />
 </p>
 
 <!-- Animated Typing Header -->
