@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/8yktfID.jpeg" width="100%" />
+  <img src="gi.png" width="100%" />
 </p>
 
 <!-- Animated Typing Header -->
