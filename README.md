@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi,+I'm+Parth+Verma!;Student+%7C+Developer+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hi,+I'm+Parth+Verma!;Student+%7C+Developer+%7C+Tech+Enthusiast" />
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 | Language | Usage |
 |----------|-------|
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)   | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ (34.55%) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ▓▓▓░░░░░░░░░░░░░░░░░░░░░░░ (9.51%) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ▓▓░░░░░░░░░░░░░░░░░░░░░░░ (9.51%) |
 | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)      | ▓░░░░░░░░░░░░░░░░░░░░░░░░░ (6.44%) |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)   | ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░ (18.20%) |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)      | ▓░░░░░░░░░░░░░░░░░░░░░░░░░ (5.01%) |
